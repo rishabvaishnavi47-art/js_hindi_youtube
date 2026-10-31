@@ -9,6 +9,7 @@ const scorevalue = 100.3
    
    const.log(id === anotherid);
    const bignumber = 3456543576654356754n
+    
    
 
    
@@ -23,7 +24,18 @@ let myobj = {
 }
 const myfunction = function(){
       console.log("hello world");
-}console.log(typeof scorevalue);
+}
+console.log(typeof anotherid);
+
+let myYoutubename = Rishabvaishnavidot.com
+
+let anothername = myYoutubename
+
+"
+
+
+
+
 
 
 
